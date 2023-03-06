@@ -16,7 +16,7 @@ dash_server = DashServer(
 )
 
 app = dash_server.start()
-#server = app.server
+server = app.server
 
 if __name__ == '__main__':
     app.run_server(debug=True)
