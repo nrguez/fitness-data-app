@@ -3,13 +3,13 @@ from dash_app.app import *
 
 
 # get datasets
-clean_dataset = pd.read_csv("./strava_activities.csv", delimiter=",")
+dataset = pd.read_csv("./test_data.csv", delimiter=",")
 
 
 
 # start the web app
 dash_server = DashServer(
-    df = clean_dataset,
+    df = dataset,
     df_name = "My Activities",
     module_name=__name__
 
