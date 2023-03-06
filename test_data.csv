@@ -1,0 +1,4 @@
+upload_id,name,distance,moving_time,elapsed_time,type,start_date,location_city,location_country,average_speed,max_speed,date,time
+9133843378,Morning Alpine Ski,25013.3,5486,22885,AlpineSki,2023-02-05T08:38:37Z,,,4.559,11.392,2023-02-05,08:38:37
+9127577594,Afternoon Alpine Ski,14875.5,3230,11215,AlpineSki,2023-02-04T12:13:03Z,,,4.605,11.632,2023-02-04,12:13:03
+8893802396,Lunch Run,2110.3,738,738,Run,2022-12-26T10:45:24Z,,,2.859,3.582,2022-12-26,10:45:24
