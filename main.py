@@ -3,7 +3,7 @@ from dash_app.app import *
 
 
 # get datasets
-dataset = pd.read_csv("./test_data.csv", delimiter=",")
+dataset = pd.read_csv("test_data.csv", delimiter=",")
 
 
 
